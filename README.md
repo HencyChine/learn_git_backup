@@ -3,5 +3,8 @@ something here
 something more
 something more2
 
-## create local branch 0
-modified someting here
+## branch 0
+modified something here
+
+## branch 1
+something here
