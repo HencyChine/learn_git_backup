@@ -1,5 +1,8 @@
 # Learn Git
 something here
 
-## create local branch 0
-modified someting here
+## branch 0
+modified something here
+
+## branch 1
+something here
