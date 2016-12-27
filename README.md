@@ -1,4 +1,4 @@
 # Learn Git
 start all over again
 
-c1 <-- c2
+c1 <-- c2 <-- c3
